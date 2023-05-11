@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Gabriel Vlassov
 
 - 🔭 Ainda não trabalho da área de dev
-- 🌱 Estudando atualmente front-end
+- 🌱 Estudando
 - 😄 Pronouns: ele/dele
 
 ##
