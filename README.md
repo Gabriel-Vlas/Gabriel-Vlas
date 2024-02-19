@@ -1,8 +1,5 @@
-### Olá!! Eu sou Gabriel Vlassov
-
-- 🌱 Estudando
-- 😄 Pronouns: ele/dele
-
+### Olá!! Eu sou Gabriel Vlassov 
+sou estudante de Ciência da Computação.
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel%2DVlas&show_icons=true&theme=tokyonight&card_width=550)
